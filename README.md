@@ -54,11 +54,11 @@ Rocket Model <br/>
 <br />
 <br />
 Mass Component Body<br/>
-<img src="https://i.postimg.cc/prfpPCn0/image.png" height=80% width=80%/>
+<img src="https://i.postimg.cc/ZRcPFKVz/image.png" height=80% width=80%/>
 <br />
 <br />
 Mass Component Lid<br/>
-<img src="https://i.postimg.cc/prfpPCn0/image.png" height=80% width=80%/>
+<img src="https://i.postimg.cc/D0SWJ2Nd/image.png" height=80% width=80%/>
 <br />
 <br />
   
