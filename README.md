@@ -39,7 +39,7 @@ Velocity Contours<br/>
 <br />
 <br />
 Drag Force Plot<br/>
-<img src="https://i.postimg.cc/prfpPCn0/image.png" height=80% width=80%/>
+<img src="https://i.postimg.cc/d1Qr0j68/Drag-Force-FINAL.png" height=80% width=80%/>
 <br />
 <br />
 Coefficient of Drag Plot<br/>
@@ -49,15 +49,19 @@ Coefficient of Drag Plot<br/>
   
 <h2>SOLIDWORKS Part Design</h2>
 <p align="center">
-Initial mockup<br/>
+Rocket Model <br/>
 <img src="https://i.postimg.cc/rF2r70tn/image.png" height=80% width=80%/>
 <br />
 <br />
-Redesigned sidewall with larger cutouts<br/>
+Mass Component Body<br/>
 <img src="https://i.postimg.cc/prfpPCn0/image.png" height=80% width=80%/>
 <br />
 <br />
-
+Mass Component Lid<br/>
+<img src="https://i.postimg.cc/prfpPCn0/image.png" height=80% width=80%/>
+<br />
+<br />
+  
 <h2>Rocket Flight</h2>
 <p align="center">
 Initial mockup<br/>
