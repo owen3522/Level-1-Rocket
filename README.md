@@ -69,11 +69,7 @@ Launch<br/>
 <br />
 <br />
 Parachute Deployment<br/>
-<img src="https://i.postimg.cc/prfpPCn0/image.png" height=80% width=80%/>
-<br />
-<br />
-Entact Recovery<br/>
-<img src="https://i.postimg.cc/prfpPCn0/image.png" height=80% width=80%/>
+<img src="https://i.postimg.cc/kMY1kfFz/IMG-8221.jpg" height=80% width=80%/>
 <br />
 <br />
 Success<br/>
