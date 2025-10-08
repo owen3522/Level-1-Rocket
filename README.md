@@ -30,12 +30,12 @@ Stability vs. Time Simulation<br/>
   
 <h2>Ansys FLUENT Simulations</h2>
 <p align="center">
-Streamline<br/>
+Velocity Streamline<br/>
 <img src="https://i.postimg.cc/cLVnQNm8/Drag-Force16.jpg" height=80% width=80%/>
 <br />
 <br />
-Contours<br/>
-<img src="https://i.postimg.cc/prfpPCn0/image.png" height=80% width=80%/>
+Velocity Contours<br/>
+<img src="https://i.postimg.cc/tCJkkph1/Rflow-contours.png" height=80% width=80%/>
 <br />
 <br />
 Drag Force Plot<br/>
