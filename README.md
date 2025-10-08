@@ -24,7 +24,7 @@ Rocket Blueprint<br/>
 <br />
 <br />
 Stability vs. Time Simulation<br/>
-<img src="https://i.postimg.cc/prfpPCn0/image.png" height=80% width=80%/>
+<img src="https://i.postimg.cc/JzdQvg5S/Stability-vs-Time.png" height=80% width=80%/>
 <br />
 <br />
   
