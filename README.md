@@ -64,11 +64,19 @@ Mass Component Lid<br/>
   
 <h2>Rocket Flight</h2>
 <p align="center">
-Initial mockup<br/>
-<img src="https://i.postimg.cc/rF2r70tn/image.png" height=80% width=80%/>
+Launch<br/>
+<img src="https://i.postimg.cc/FFSk4K08/Real-flight.jpg" height=80% width=80%/>
 <br />
 <br />
-Redesigned sidewall with larger cutouts<br/>
+Parachute Deployment<br/>
 <img src="https://i.postimg.cc/prfpPCn0/image.png" height=80% width=80%/>
+<br />
+<br />
+Entact Recovery<br/>
+<img src="https://i.postimg.cc/prfpPCn0/image.png" height=80% width=80%/>
+<br />
+<br />
+Success<br/>
+<img src="https://i.postimg.cc/qRV0Xpgs/Group-cert.jpg" height=80% width=80%/>
 <br />
 <br />
