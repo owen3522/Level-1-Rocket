@@ -12,6 +12,10 @@
 - <b>SOLIDWORKS</b>
 - <b>Mechanical Assembly</b>
 
+<h2>Constraints</h2>
+
+- <b>Maximum Apogee of 1200ft</b> 
+
 
 <h2>OpenRocket Setup</h2>
 <p align="center">
@@ -19,7 +23,7 @@ Rocket Blueprint<br/>
 <img src="https://i.postimg.cc/kGprBwm7/image.png" height=80% width=80%/>
 <br />
 <br />
-Redesigned sidewall with larger cutouts<br/>
+Stability vs. Time Simulation<br/>
 <img src="https://i.postimg.cc/prfpPCn0/image.png" height=80% width=80%/>
 <br />
 <br />
