@@ -43,7 +43,7 @@ Drag Force Plot<br/>
 <br />
 <br />
 Coefficient of Drag Plot<br/>
-<img src="https://i.postimg.cc/prfpPCn0/image.png" height=80% width=80%/>
+<img src="https://i.postimg.cc/SKZNWBch/cdplot.png" height=80% width=80%/>
 <br />
 <br />
   
