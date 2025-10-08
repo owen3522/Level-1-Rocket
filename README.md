@@ -15,8 +15,8 @@
 
 <h2>OpenRocket Setup</h2>
 <p align="center">
-Initial mockup<br/>
-<img src="https://i.postimg.cc/rF2r70tn/image.png" height=80% width=80%/>
+Rocket Blueprint<br/>
+<img src="https://i.postimg.cc/kGprBwm7/image.png" height=80% width=80%/>
 <br />
 <br />
 Redesigned sidewall with larger cutouts<br/>
