@@ -50,7 +50,7 @@ Coefficient of Drag Plot<br/>
 <h2>SOLIDWORKS Part Design</h2>
 <p align="center">
 Rocket Model <br/>
-<img src="https://i.postimg.cc/rF2r70tn/image.png" height=80% width=80%/>
+<img src="https://i.postimg.cc/DzRRk5TJ/image.png" height=80% width=80%/>
 <br />
 <br />
 Mass Component Body<br/>
