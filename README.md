@@ -2,7 +2,7 @@
 
 <h2>My Goal</h2>
 
-- <b>Build, launch, and recover a model rocket featuring an H219 motor with 234 N*s of specific impulse to earn a level 1 certification for high powered rocketry </b>
+- <b>Build, launch, and recover a model rocket featuring an H219 motor with 234 Newton-seconds of specific impulse to earn a level 1 certification for high powered rocketry </b>
 
 
 <h2>Software and Skills</h2>
