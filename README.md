@@ -30,11 +30,11 @@ Stability vs. Time Simulation<br/>
   
 <h2>Ansys FLUENT Simulations</h2>
 <p align="center">
-Initial mockup<br/>
-<img src="https://i.postimg.cc/rF2r70tn/image.png" height=80% width=80%/>
+Streamline<br/>
+<img src="https://i.postimg.cc/cLVnQNm8/Drag-Force16.jpg" height=80% width=80%/>
 <br />
 <br />
-Redesigned sidewall with larger cutouts<br/>
+Contours<br/>
 <img src="https://i.postimg.cc/prfpPCn0/image.png" height=80% width=80%/>
 <br />
 <br />
