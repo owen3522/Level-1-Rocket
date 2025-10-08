@@ -14,6 +14,7 @@
 
 <h2>Constraints</h2>
 
+- <b>Launch rockets containing a single motor with a total installed impulse of 160.01 Newton-seconds or more</b>
 - <b>Maximum Apogee of 1200ft</b> 
 
 
