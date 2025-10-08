@@ -38,6 +38,14 @@ Contours<br/>
 <img src="https://i.postimg.cc/prfpPCn0/image.png" height=80% width=80%/>
 <br />
 <br />
+Drag Force Plot<br/>
+<img src="https://i.postimg.cc/prfpPCn0/image.png" height=80% width=80%/>
+<br />
+<br />
+Coefficient of Drag Plot<br/>
+<img src="https://i.postimg.cc/prfpPCn0/image.png" height=80% width=80%/>
+<br />
+<br />
   
 <h2>SOLIDWORKS Part Design</h2>
 <p align="center">
